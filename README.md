@@ -8,7 +8,8 @@
 
 생년월일 : 1996.02.01
 
-
+## 백준 알고리즘
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maro0201">
 
 ## :hammer_and_wrench: 보유 역량
 
