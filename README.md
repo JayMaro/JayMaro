@@ -54,7 +54,7 @@
     - https://futurelab.creatorlink.net/ 링크 참조
     - Python 기반 Tensorflow를 이용한 딥러닝 교육
     - 아쉽게도 마지막 3개월 째 개강을 하게 되어 프로젝트 진행을 하지 못했습니다.
-- 과정명 : 삼성 청년 SW 아카데미 5기(SSAFY)
+- 과정명 : [삼성 청년 SW 아카데미 5기(SSAFY)](https://github.com/JayMaro/SSAFY)
   - 기간 : 2020.01.05 ~
   - 학습내용
     - 상단 `과정명` 링크 참고
