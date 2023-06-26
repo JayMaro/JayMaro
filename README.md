@@ -20,7 +20,7 @@
   - 직책 : 결제 서비스 개발팀 매니저
   - 업무 : 결제, 상품, 배송 관련 백엔드 개발([자세히](https://quartz-visor-107.notion.site/Maro-8bad5ee9c4514b0289b869914bb0868f?pvs=4))
  
-## 프로젝트
+## 📋 프로젝트
 - [나의 방탈 일지](https://github.com/JayMaro/My-Room-Escape-Diary)
 - [취업전 프로젝트 모음](https://github.com/JayMaro/Project)
 
