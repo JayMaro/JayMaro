@@ -12,11 +12,17 @@
 
 - 2014.02 거창고등학교 졸업
 - 2014.03 성균관대학교 공학계열 입학
-- 2015.03 제 1전공 조경학과 전공
-- 2015.09 제 2 전공 전자전기 공학부 전공
 - 2021.02 성균관대학교 조경학과, 전자전기 공학부 졸업
 
-
+## :man_technologist: 경력사항
+- 중고나라
+  - 기간 : 2021.07 ~ 2023.07
+  - 직책 : 결제 서비스 개발팀 매니저
+  - 업무 : 결제, 상품, 배송 관련 백엔드 개발([자세히](https://quartz-visor-107.notion.site/Maro-8bad5ee9c4514b0289b869914bb0868f?pvs=4))
+ 
+## 프로젝트
+- [나의 방탈 일지](https://github.com/JayMaro/My-Room-Escape-Diary)
+- [취업전 프로젝트 모음](https://github.com/JayMaro/Project)
 
 ## :book: 교육사항
 - 과정명 : [삼성 청년 SW 아카데미 5기(SSAFY)](https://github.com/JayMaro/SSAFY)
@@ -28,6 +34,10 @@
   - 기간 : 2021.03.28 ~ 2021.07.19
   - 학습내용
     - Python APS 스터디
+- 과정명 : 딥러닝 기초 교육
+  - 기간 : 2019.07 ~ 2019.09
+  - 학습내용
+    - Python 기반 Tensorflow를 이용한 딥러닝 교육
 
 ## :page_facing_up: 자격증
 
